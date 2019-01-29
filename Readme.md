@@ -12,6 +12,7 @@ Pig game in Javascript.
 
 # Installation
 
-- Steps to run the game:
+###### Steps to run the game:
+
 - Clone the Application ( git clone "Clone Url" )
 - Open index.html
