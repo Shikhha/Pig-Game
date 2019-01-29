@@ -1,4 +1,4 @@
-## Project Title
+# Project Title
 
 Pig game in Javascript.
 
@@ -10,8 +10,8 @@ Pig game in Javascript.
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 
-## Installation
+# Installation
 
--Steps to run the game:
--Clone the Application ( git clone "Clone Url" )
--Open index.html
+- Steps to run the game:
+- Clone the Application ( git clone "Clone Url" )
+- Open index.html
